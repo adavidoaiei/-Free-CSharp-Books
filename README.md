@@ -57,9 +57,12 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Pro C# 7 With .NET and .NET Core - Eighth Edition [[Download]](/book/Pro%20C%23%207%20With%20.NET%20and%20.NET%20Core%20-%20Eighth%20Edition.pdf)
 * Professional ASP.NET Design Patterns [[Download]](/book/Professional%20ASP.NET%20Design%20Patterns.pdf)
 * Professional ASP.NET MVC 4  [[Download]](/book/Professional%20ASP.NET%20MVC%204%20.pdf)
+* Professional Refactoring in C# & ASP.NET [[Download]](/book/Professional%20Refactoring%20in%20C%23%20%26%20ASP.NET.pdf)
 * Programming ASP.NET MVC 4 [[Download]](/book/Programming%20ASP.NET%20MVC%204.pdf)
 * Reactive Programming for .NET Developers [[Download]](/book/Reactive%20Programming%20for%20.NET%20Developers.epub)
+* Real-Time Web Application Development - With ASP.NET Core, SignalR, Docker, and Azure [[Download]](/book/Real-Time%20Web%20Application%20Development%20-%20With%20ASP.NET%20Core%2C%20SignalR%2C%20Docker%2C%20and%20Azure.pdf)
 * Reengineering .NET - Injecting Quality, Testability, and Architecture into Existing Systems [[Download]](/book/Reengineering%20.NET%20-%20Injecting%20Quality%2C%20Testability%2C%20and%20Architecture%20into%20Existing%20Systems.epub)
+* Sams Teach Yourself ASP.NET Core in 24 Hours [[Download]](/book/Sams%20Teach%20Yourself%20ASP.NET%20Core%20in%2024%20Hours.epub)
 * The C# Player's Guide - Third Edition [[Download]](/book/The%20C%23%20Player%27s%20Guide%20-%20Third%20Edition.pdf)
 * Visual Studio 2013 and .NET 4.5 Expert Cookbook [[Download]](/book/Visual%20Studio%202013%20and%20.NET%204.5%20Expert%20Cookbook.pdf)
 
